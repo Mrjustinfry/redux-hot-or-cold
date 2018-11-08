@@ -3,6 +3,9 @@
   "name": "trello",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "8.12.0"
+  },
   "devDependencies": {
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.1",
